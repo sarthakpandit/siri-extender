@@ -1,0 +1,2 @@
+Siri extender is an proxy for Siri voice assistant available for iOS (currently only iPhone 4S) users.
+This software give developers platform for extending Siri features like searching for places outside US.
